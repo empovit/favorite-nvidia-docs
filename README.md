@@ -1,1 +1,1 @@
-This repository containes a curated list of links to publicly available NVIDIA documentation, by topic.
+This repository contains a curated list of links to publicly available NVIDIA documentation, by topic.
